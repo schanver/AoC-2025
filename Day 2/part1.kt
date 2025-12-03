@@ -1,7 +1,6 @@
 import java.io.File
 import java.io.InputStream
 
-// First we splice the ranges and put them in a list 
 
 
 fun main(args: Array<String>) {
